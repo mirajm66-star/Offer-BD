@@ -1,0 +1,6 @@
+{
+  "name": "অফার বিডি",
+  "description": "মোবাইল রিচার্জ, সিম ড্রাইভ অফার, অ্যাড মানি এবং কাস্টমার ও ব্যক্তিগত হিসাব খাতা সার্ভিস অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
